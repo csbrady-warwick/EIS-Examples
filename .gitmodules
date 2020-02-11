@@ -1,0 +1,3 @@
+[submodule "EIS-2"]
+	path = EIS-2
+	url = https://github.com/csbrady-warwick/EIS-2.git
